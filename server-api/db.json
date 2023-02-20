@@ -2,8 +2,13 @@
   "contacts": [
     {
       "id": "386bedd1-c549-4510-b6bc-3b05a4286cf5",
-      "name": "Azeez",
+      "name": "Azee",
       "email": "azee@gmail.com"
+    },
+    {
+      "id": "386bedd1-c549-4510-b6bc-3b05a4286cf5",
+      "name": "Ami",
+      "email": "ami@gmail.com"
     }
   ]
 }
